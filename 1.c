@@ -12,7 +12,7 @@ int main()
     char op;
       
 
-    printf("\nenter what you need to do like");
+    printf("\nenter what  need to do like");
      scanf(" %s",&op);
 
     if (op == '+')
