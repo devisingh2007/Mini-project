@@ -21,7 +21,7 @@ int main()
     }
     else if (op == '-')
     {
-        printf("subtraction of a and b is%.2f", a-b);
+        printf("subtraction oa and b is%.2f", a-b);
     }
     else if (op == '*')
     {
